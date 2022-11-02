@@ -1,0 +1,15 @@
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\bin\Debug\net6.0\RockPaperScissorsSimulator.exe
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\bin\Debug\net6.0\RockPaperScissorsSimulator.deps.json
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\bin\Debug\net6.0\RockPaperScissorsSimulator.runtimeconfig.json
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\bin\Debug\net6.0\RockPaperScissorsSimulator.dll
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\bin\Debug\net6.0\RockPaperScissorsSimulator.pdb
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.csproj.AssemblyReference.cache
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.AssemblyInfoInputs.cache
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.AssemblyInfo.cs
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.csproj.CoreCompileInputs.cache
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.dll
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\refint\RockPaperScissorsSimulator.dll
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.pdb
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\RockPaperScissorsSimulator.genruntimeconfig.cache
+D:\Users\antek\source\repos\RockPaperScissorsSimulator\RockPaperScissorsSimulator\obj\Debug\net6.0\ref\RockPaperScissorsSimulator.dll
